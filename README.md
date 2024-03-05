@@ -1,4 +1,4 @@
-* Doctorappointment schedule
+* Doctor appointment schedule
 * Patient report online summary
 
 ![a1](https://github.com/Bishozit/Medical_App_Design/assets/110930138/8524cfc1-6b7b-473c-a22a-e15c1f0b1d8d)
